@@ -50,6 +50,8 @@ pneumonia-detection/
 ├── 01-exploration.ipynb       # Dataset exploration and analysis
 ├── 02-ml_pipeline.ipynb       # ML pipeline: LBP + GLCM + RF/XGBoost + SMOTE
 ├── 03-dl_pipeline.ipynb       # DL pipeline: DenseNet121 + Grad-CAM
+├── docs/
+|   └── report.pdf      # Technical report 
 └── results/
     ├── ml_pipeline/           # Confusion matrices and feature importance
     └── dl_pipeline/           # Training curves, confusion matrices, Grad-CAM
